@@ -1,0 +1,27 @@
+.Container{
+	display: flex;
+	flex-direction: row;
+}
+
+.first-box{
+	height: 400px;
+	width:  400px;
+	background-color: green;
+	
+
+}
+
+.second-box{
+	background-color: white;
+	width: 400px;
+	height: 400px;
+	
+	}
+
+
+.third-box{
+	background-color: green;
+	height: 400px;
+	width:  400px;
+}
+
